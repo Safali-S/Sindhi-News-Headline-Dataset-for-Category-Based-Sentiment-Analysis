@@ -1,0 +1,10 @@
+Description:
+This project focuses on Category-based Sentiment Analysis of a dataset containing Sindhi news headlines. The dataset comprises 30,462 headlines collected from various online Sindhi news platforms. Each headline is annotated with two key attributes: its category (such as politics, sports, crime, health, economy, entertainment, science & technology and social.) and its sentiment polarity (positive, negative, or neutral).
+The primary objective of this analysis is to understand how sentiment varies across different news categories within Sindhi media. This involves training machine learning and natural language processing (NLP) models to classify the sentiment of each headline, while also exploring the distribution and trends of sentiment within each news category.
+The analysis provides insights into:
+•	Which categories tend to feature more negative or positive sentiments.
+•	The relationship between topical focus and emotional tone in Sindhi journalism.
+By combining linguistic features with categorical metadata, this study contributes to both sentiment analysis in low-resource languages and media bias or tone detection in regional news content.
+
+The dataset used in the article reference are as follows:
+S.A. Soomro, S.S. Yuhaniz, M.A. Dootio, G. Mujtaba, J.A. Siddiqui, Category-Based Sentiment Analysis of Sindhi News Headlines Using Machine Learning, Deep Learning and Transformer Models, IEEE Access (2025). DOI: 10.1109/ACCESS.2025.3576853 
